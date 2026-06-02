@@ -15,7 +15,7 @@ Machine learning model that predicts **Expected Goals (xG)** for football shots,
 
 ---
 
-### 🌀 [3D Maze Game](https://github.com/Abraheem2010/omer-bender)
+### 🌀 [3D Maze Game](https://github.com/Abraheem2010/fullstack-maze-game)
 Full-stack 3D maze game with 3 progressive stages and a competitive Hall of Fame leaderboard.
 - React frontend with 3D rendering
 - Node.js + Express backend, SQLite database
