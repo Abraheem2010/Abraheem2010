@@ -23,7 +23,7 @@ A 3D browser maze game with 3 stages of increasing difficulty. Built the full st
 ### 🎮 [Fullstack Maze Game](https://github.com/Abraheem2010/fullstack-maze-game)
 Earlier version of the maze — 2D, fully deployed on Render. Players compete for fastest stage completion times.
 
-🔗 [Live demo](https://maze-game-q9ps.onrender.com) · `React` · `Node.js` · `SQLite`
+`React` · `Node.js` · `SQLite`
 
 ---
 
