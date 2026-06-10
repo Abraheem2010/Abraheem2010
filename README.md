@@ -13,10 +13,10 @@ Trained a Gradient Boosting model on every shot from the 2022 World Cup to predi
 
 ---
 
-### 🌀 [3D Multiplayer Maze Game](https://github.com/Abraheem2010/maze-3d-game)
-A real-time multiplayer 3D maze game built with Three.js. Players navigate procedurally themed levels with dynamic lighting, shadows, and animated character models. Multiplayer uses WebSockets for position sync and WebRTC for live voice chat between players.
+### 🌀 [3D Maze Game](https://github.com/Abraheem2010/maze-3d-game)
+A 3D third-person maze game built with Three.js — players navigate a procedurally generated city with dynamic lighting, shadows, and an animated character model. A real-time multiplayer layer (WebSockets for position sync, WebRTC for voice chat) is in progress on a feature branch.
 
-`React` · `Three.js` · `WebSockets` · `WebRTC` · `Node.js` · `SQLite`
+`React` · `Three.js` · `Node.js` · `SQLite`
 
 ---
 
@@ -27,10 +27,10 @@ A real-time multiplayer 3D maze game built with Three.js. Players navigate proce
 
 ---
 
-### 🖼️ [Image Processing](https://github.com/Abraheem2010/web-deloper)
-Python exercises in image processing — histogram equalization, contrast enhancement, visual analysis.
+### 🖼️ [Image Processing — From Scratch](https://github.com/Abraheem2010/image-processing-from-scratch)
+Classic image-processing algorithms implemented from scratch in NumPy — histogram matching, Canny edge detection, Hough transform, and FFT denoising.
 
-`Python` · `Jupyter Notebook`
+`Python` · `NumPy` · `Jupyter Notebook`
 
 ---
 
