@@ -16,12 +16,16 @@ Trained a Gradient Boosting model on every shot from the 2022 World Cup to predi
 ### 🌀 [3D Maze Game](https://github.com/Abraheem2010/maze-3d-game)
 A 3D third-person maze game built with Three.js — players navigate a procedurally generated city with dynamic lighting, shadows, and an animated character model. A real-time multiplayer layer (WebSockets for position sync, WebRTC for voice chat) is in progress on a feature branch.
 
+**▶ Play it live: https://maze-3d-game.onrender.com**
+
 `React` · `Three.js` · `Node.js` · `SQLite`
 
 ---
 
 ### 🎮 [Fullstack Maze Game](https://github.com/Abraheem2010/fullstack-maze-game)
 2D maze game with 3 stages and a competitive leaderboard. Full-stack with a React frontend and an Express + SQLite backend that stores each player's best time per stage.
+
+**▶ Play it live: https://maze-game-q9ps.onrender.com**
 
 `React` · `Node.js` · `SQLite`
 
