@@ -9,6 +9,8 @@ I'm a CS & Information Systems student who enjoys building things — from full-
 ### ⚽ [xG Football Calculator](https://github.com/Abraheem2010/xG-Football-Calculator)
 Trained a Gradient Boosting model on every shot from the 2022 World Cup to predict the probability of a goal (xG). Built an interactive web app on top of it where you can adjust shot parameters and see the prediction update live.
 
+**▶ Try it live: https://xg-football-calculator-fhx55bkhxtwh3bp4gvqtie.streamlit.app**
+
 `Python` · `scikit-learn` · `Streamlit` · `StatsBomb data`
 
 ---
