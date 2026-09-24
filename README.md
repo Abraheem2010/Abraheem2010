@@ -15,6 +15,13 @@ Trained a Gradient Boosting model on every shot from the 2022 World Cup to predi
 
 ---
 
+### 📐 [Machine Learning Fundamentals](https://github.com/Abraheem2010/machine-learning-fundamentals)
+Six machine-learning assignments implemented from scratch and verified against scikit-learn — data preparation on 2,075 chemical compounds, PCA and t-SNE, hierarchical clustering and K-means, Naive Bayes and kNN, decision trees, regression, SVM, and a 7-model Kickstarter classifier with ROC/AUC. A single `verify_all.py` re-runs everything and checks 74 numbers against the original solutions.
+
+`Python` · `pandas` · `scikit-learn` · `SciPy` · `statsmodels`
+
+---
+
 ### 🌀 [3D Maze Game](https://github.com/Abraheem2010/maze-3d-game)
 A 3D third-person maze game built with Three.js — players navigate a procedurally generated city with dynamic lighting, shadows, and an animated character model. A real-time multiplayer layer (WebSockets for position sync, WebRTC for voice chat) is in progress on a feature branch.
 
